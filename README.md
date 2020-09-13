@@ -1,2 +1,2 @@
 # Data-Quest-Data-Science
- Projects and other relevant material accomplished on the way
+ Projects from the Data Scientist curriculum from Data Quest
