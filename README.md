@@ -8,7 +8,7 @@ LINK
 
 Guided Project from Step 1 / Course 2: Python for Data Science: Intermediate:
 Exploring Hacker News Posts.ipynb
-(https://github.com/mmhg3000/Data-Quest-Data-Science/blob/master/Exploring%20Hacker%20News%20Posts.ipynb)
+(https://github.com/mmhg3000/Data-Quest-Data-Science/blob/master/S1-C2%20-%20Exploring%20Hacker%20News%20Posts.ipynb)
 
 
 Guided Project from Step 1 / Course 1: Introduction to Python:
