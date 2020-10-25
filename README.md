@@ -2,9 +2,10 @@
 Projects from the Data Scientist curriculum from Data Quest
 
 So far completed:
+
 Guided Project from Step 2 / Course 2: Pandas and NumPy Fundamentals
 Exploring Ebay Car Sales Data.ipynb
-LINK
+(https://github.com/mmhg3000/Data-Quest-Data-Science/blob/master/S2-C1%20-%20Exploring%20Ebay%20Car%20Sales%20Data.ipynb)
 
 Guided Project from Step 1 / Course 2: Python for Data Science: Intermediate:
 Exploring Hacker News Posts.ipynb
