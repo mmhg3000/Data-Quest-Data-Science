@@ -5,7 +5,14 @@ So far completed:
 
 ##############################################################################################
 
-Guided Project from Step 2 / Course 2: Pandas and NumPy Fundamentals
+Guided Project from Step 2 / Course 2: Exploratory Data Visualization
+S2-C2 -  Visualizing Earnings Based On College Majors.ipynb
+
+(https://github.com/mmhg3000/Data-Quest-Data-Science/blob/main/S2-C2%20-%20Visualizing%20Earnings%20Based%20On%20College%20Majors.ipynb)
+
+##############################################################################################
+
+Guided Project from Step 2 / Course 1: Pandas and NumPy Fundamentals
 Exploring Ebay Car Sales Data.ipynb
 
 (https://github.com/mmhg3000/Data-Quest-Data-Science/blob/master/S2-C1%20-%20Exploring%20Ebay%20Car%20Sales%20Data.ipynb)
