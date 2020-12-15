@@ -5,8 +5,15 @@ So far completed:
 
 ##############################################################################################
 
+Guided Project from Step 2 / Course 3: Storytelling Through Data Visualization
+S2-C3 - Visualizing the Gender Gap in College Degrees.ipynb
+
+(https://github.com/mmhg3000/Data-Quest-Data-Science/blob/main/S2-C3%20-%20Visualizing%20the%20Gender%20Gap%20in%20College%20Degrees.ipynb)
+
+##############################################################################################
+
 Guided Project from Step 2 / Course 2: Exploratory Data Visualization
-S2-C2 -  Visualizing Earnings Based On College Majors.ipynb
+S2-C2 - Visualizing Earnings Based On College Majors.ipynb
 
 (https://github.com/mmhg3000/Data-Quest-Data-Science/blob/main/S2-C2%20-%20Visualizing%20Earnings%20Based%20On%20College%20Majors.ipynb)
 
