@@ -5,6 +5,13 @@ So far completed:
 
 ##############################################################################################
 
+Guided Project from Step 2 / Course 4: Clean and Analyze Employee Exit Surveys
+S2-C4 - Clean and Analyze Employee Exit Surveys.ipynb
+
+(https://github.com/mmhg3000/Data-Quest-Data-Science/blob/main/S2-C4%20-%20Clean%20and%20Analyze%20Employee%20Exit%20Surveys.ipynb)
+
+##############################################################################################
+
 Guided Project from Step 2 / Course 3: Storytelling Through Data Visualization
 S2-C3 - Visualizing the Gender Gap in College Degrees.ipynb
 
