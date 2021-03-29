@@ -8,7 +8,7 @@ So far completed:
 Guided Project from Step 2 / Course 6: Analyzing NYC High School Data
 S2-C6 - Analyzing NYC High School Data.ipynb
 
-()
+(https://github.com/mmhg3000/Data-Quest-Data-Science/blob/main/S2-C6%20-%20Analyzing%20NYC%20High%20School%20Data.ipynb)
 
 
 ##############################################################################################
