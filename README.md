@@ -5,6 +5,14 @@ So far completed:
 
 ##############################################################################################
 
+Guided Project from Step 2 / Course 6: Analyzing NYC High School Data
+S2-C6 - Analyzing NYC High School Data.ipynb
+
+()
+
+
+##############################################################################################
+
 Guided Project from Step 2 / Course 4: Clean and Analyze Employee Exit Surveys
 S2-C4 - Clean and Analyze Employee Exit Surveys.ipynb
 
